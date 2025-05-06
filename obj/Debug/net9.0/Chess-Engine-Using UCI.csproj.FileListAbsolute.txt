@@ -1,0 +1,15 @@
+/home/Mudit/Chess-Engine-Using UCI/bin/Debug/net9.0/Chess-Engine-Using UCI
+/home/Mudit/Chess-Engine-Using UCI/bin/Debug/net9.0/Chess-Engine-Using UCI.deps.json
+/home/Mudit/Chess-Engine-Using UCI/bin/Debug/net9.0/Chess-Engine-Using UCI.runtimeconfig.json
+/home/Mudit/Chess-Engine-Using UCI/bin/Debug/net9.0/Chess-Engine-Using UCI.dll
+/home/Mudit/Chess-Engine-Using UCI/bin/Debug/net9.0/Chess-Engine-Using UCI.pdb
+/home/Mudit/Chess-Engine-Using UCI/obj/Debug/net9.0/Chess-Engine-Using UCI.GeneratedMSBuildEditorConfig.editorconfig
+/home/Mudit/Chess-Engine-Using UCI/obj/Debug/net9.0/Chess-Engine-Using UCI.AssemblyInfoInputs.cache
+/home/Mudit/Chess-Engine-Using UCI/obj/Debug/net9.0/Chess-Engine-Using UCI.AssemblyInfo.cs
+/home/Mudit/Chess-Engine-Using UCI/obj/Debug/net9.0/Chess-Engine-Using UCI.csproj.CoreCompileInputs.cache
+/home/Mudit/Chess-Engine-Using UCI/obj/Debug/net9.0/Chess-Engine-Using UCI.sourcelink.json
+/home/Mudit/Chess-Engine-Using UCI/obj/Debug/net9.0/Chess-Engine-Using UCI.dll
+/home/Mudit/Chess-Engine-Using UCI/obj/Debug/net9.0/refint/Chess-Engine-Using UCI.dll
+/home/Mudit/Chess-Engine-Using UCI/obj/Debug/net9.0/Chess-Engine-Using UCI.pdb
+/home/Mudit/Chess-Engine-Using UCI/obj/Debug/net9.0/Chess-Engine-Using UCI.genruntimeconfig.cache
+/home/Mudit/Chess-Engine-Using UCI/obj/Debug/net9.0/ref/Chess-Engine-Using UCI.dll
